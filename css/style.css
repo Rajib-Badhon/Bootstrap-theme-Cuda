@@ -1,0 +1,386 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%
+}
+.team-1{
+	background-color: #7F4A94;
+	height: 450px;
+}
+
+.navbar .container{
+	/*background-color: coral;*/
+	/*border: 2px solid black;*/
+	margin-top: 30px;
+}
+.navbar{
+	background: transparent;
+	border: 2px black;
+}
+.navbar-brand{
+	/*background: red;*/
+	border-radius: 2px;
+	font-weight: bolder;
+	font-size: 30px;
+	font-family: serif;
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+	margin: 8px;
+	padding: 5px;
+	font-size: 12px;
+}
+.navbar-default .navbar-nav>li>a:hover {
+	background-color: #5B316F;
+	color: white;
+}
+.sec-1-title{
+	margin-top: 80px;
+	text-align: center;
+	overflow: hidden;
+}
+.sec-1-title h3{
+	width: 70%;
+	position: relative;
+	/*border: 2px solid blue;*/
+	color: white;
+	font-weight: bold;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.our-work{
+	margin-top: 50px;
+	width: 250px;
+	/*border: 2px solid red;*/
+	padding: 10px;
+	position: relative;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.our-work .btn{
+	width: 200px;
+	height: 50px;
+	font-size: 14px;
+	color: white;
+	background-color: coral;
+	position: relative;
+	border: 1px black;
+}
+.team-2{
+	background: #15C1A5;
+	height: 600px;
+}
+.team-2-title{
+	margin-top: 70px;
+	/*border: 2px solid black;*/
+}
+.team-2-title h3{
+	margin-top: 20px;
+	font-size: 26px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.team-2-title p{
+	margin-top: 15px;
+	color: #EEFAF8;
+	font-size: 16px;
+	text-align: center;
+}
+.team-2-title img{
+	margin-top: 15px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-2-content{
+	margin-top: 20px;
+	padding: 10px;
+}
+.team-2-content img{
+	/*border: 2px solid black;*/
+	width: 120px;
+	height: 150px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.team-2-content h3{
+	margin-right: 10px;
+	margin-top: 30px;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+.team-2-content p{
+	text-align: center;
+	margin-top: 20px;
+	color: #EEFAF8;
+	font-size: 16px;
+	font-family: sans-serif;
+	/*border: 2px solid black;*/
+}
+
+.team-3{
+	background: #E7F2F8;
+	height: 700px;
+	/*border: 2px solid black;*/
+}
+.team-3-title{
+	/*border: 2px solid red;*/
+	margin-top: 60px;
+
+}
+.team-3-title h3{
+	text-align: center;
+	font-weight: bold;
+	font-size: 26px;
+}
+.team-3-title p{
+	text-align: center;
+	font-size: 16px;
+
+}
+.team-3-title img{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.team-3-content{
+	margin-top: 40px;
+}
+.team-3-content img{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-3-content h3{
+	text-align: center;
+	padding: 5px;
+	font-size: 24px;
+	position: relative;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.team-3-content p{
+	text-align: center;
+	margin-top: 15px;
+	padding: 5px;
+}
+
+.team-3-content a{
+	color: #3CBDE4;
+	font-size: 14px;
+	margin-left: 30%;
+}
+.team-3-content .icon{
+	padding-left: 20px;
+}
+.team-4{
+	background: white;
+	height: 600px;
+}
+
+.team-4-title{
+	padding: 30px;
+	overflow: hidden;
+}
+.team-4-title h3{
+	margin-top: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 26px;
+}
+.team-4-title img{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-4-title p{
+	text-align: center;
+	font-size: 18px;
+	margin-top: 15px;
+}
+.team-4-img{
+	margin-left: 5%;
+	padding: 20px;
+}
+.team-5{
+	background: #FFDD99;
+	height: 1200px;
+}
+.team-5-title{
+	margin-top: 80px;
+}
+.team-5-title h3{
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+.team-5-title img{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-5-title p{
+	text-align: center;
+	font-size: 18px;
+}
+.btn-group-justified{
+	margin-top: 10px;
+	position: relative;	
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.btn-group{
+	position: relative;
+	padding: 5px;
+	width: 350px;
+}
+.team-5-img img{
+	/*border: 2px solid black;*/
+	margin: 10px;
+	padding: 10px;
+}
+.large{
+	position: relative;
+	margin-top: 50px;
+}
+.large .btn{
+	/*border: 2px solid black;*/
+	width: 250px;
+	height: 60px;
+	color: white;
+	font-size: 16px;
+	background: #18C2A5;
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-6{
+	background: #D7467F;
+	height: 650px;
+
+}
+.team-6-title{
+	margin-top: 80px;
+}
+.team-6-title h3{
+	color: white;
+	margin-top: 20px;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+.team-6-title img{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.team-6-title p{
+	text-align: center;
+	font-size: 18px;
+	color: #F5E5EF;
+}
+.team-6-content{
+	margin-top: 20px;
+	padding: 5px;
+}
+.team-6-content img{
+	margin: 40px;
+
+}
+.inside-content{
+	padding: 10px;
+}
+.inside-content p{
+	margin-top: 20px;
+	color: #F5E5EF;
+	font-size: 18px;
+	font-family: serif;
+	font-style: italic;
+}
+.inside-content h3{
+	margin-top: 15px;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.inside-content a{
+	color: #FFDD99;
+	font-size: 12px;
+	letter-spacing: .09em;
+}
+
+.footer-sec{
+	background: #3C549A;
+	height: 650px;
+}
+.footer-title h3{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+}
+.footer-title img{
+	margin-left: 50%;
+	position: relative;
+	transform: translateX(-50px);
+}
+.footer-title p{
+	text-align: center;
+	color: white;
+	margin: 10px;
+
+}
+.footer-inside{
+	margin-top: 40px;
+	height: 400px;
+}
+.footer-inside .form-group{
+	width: 40%;
+	margin-left: 80px;
+}
+.foot-large{
+	position: relative;
+	margin-top: 50px;
+}
+.foot-large .btn{
+	width: 250px;
+	height: 60px;
+	color: white;
+	font-size: 16px;
+	background: #30BAE8;
+	margin-left: 50%;
+	transform: translateX(-50%); 
+}
+.foot{
+	background: #344B8F;
+	margin-top: 50px;
+	height: 60px;
+	width: 100%
+}
+.footer-sec .foot ul{
+	margin: 5px;
+	padding: 10px;
+	/*border: 2px solid black;*/
+}
+.footer-sec .foot ul li{
+	/*border: 2px solid red;*/
+	padding: 10px;
+	display: inline;
+}
+.footer-sec .foot ul li a{
+	color: white;
+	font-size: 18px;
+	margin: 10px;
+	padding-left: 25px;
+}
+.footer-sec .foot ul li a:hover{
+	color: #30BAE8;
+}
+
